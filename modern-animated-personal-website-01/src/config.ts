@@ -9,20 +9,20 @@ export const profile = {
   title: "全端開發工程師 & 創意設計師",
   tagline: "在程式與設計的交界，探索無限可能",
   description:
-    "一位對細節極度苛求的創作者，擅長將複雜概念轉化為直覺優雅的數位體驗。熱衷於探索新技術、追求極致動畫與沈浸式互動。",
-  email: "hello@jaylin.design",
-  location: "台灣 · 台北",
-  years: 6,
-  projects: 58,
-  clients: 34,
-  awards: 12,
+    "一位精通 C# 後端與 Kotlin 行動開發的全端實戰派，擅長將穿戴裝置與地理資訊進行軟硬整合。",
+  email: "chiubroworking@gmail.com",
+  location: "臺灣 · 臺北",
+  years: 1,
+  projects: 2,
+  clients: 0,
+  awards: 0,
 };
 
 export const roles = [
-  "全端開發工程師",
+  "前端、後端開發工程師",
   "UI/UX 設計師",
-  "創意程式設計師",
-  "數位體驗藝術家",
+  "應用程式設計師",
+  "Android開發者",
   "開源貢獻者",
 ];
 
@@ -38,30 +38,30 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    year: "2024 — 現在",
-    title: "資深前端工程師",
-    company: "TechNova Studio",
-    desc: "帶領團隊打造多個 SaaS 產品，導入 Design System 與動畫規範，優化使用者體驗與效能。",
-  },
-  {
-    year: "2022 — 2024",
-    title: "產品設計師",
-    company: "Aurora Labs",
-    desc: "負責跨平台應用的 UI/UX 設計，建立品牌識別系統，作品榮獲 Awwwards 與多項國際設計獎。",
-  },
-  {
-    year: "2020 — 2022",
-    title: "全端工程師",
-    company: "CloudForge Inc.",
-    desc: "從零打造多個 Web 應用，涵蓋電商、數據平台與 AI 工具整合，月活用戶突破 50 萬。",
-  },
-  {
-    year: "2018 — 2020",
-    title: "自由接案設計師",
-    company: "Freelance",
-    desc: "與新創團隊與品牌合作，完成超過 40 個網站與品牌識別設計案。",
-  },
+  // {
+  //   year: "2024 — 現在",
+  //   title: "資深前端工程師",
+  //   company: "TechNova Studio",
+  //   desc: "帶領團隊打造多個 SaaS 產品，導入 Design System 與動畫規範，優化使用者體驗與效能。",
+  // },
+  // {
+  //   year: "2022 — 2024",
+  //   title: "產品設計師",
+  //   company: "Aurora Labs",
+  //   desc: "負責跨平台應用的 UI/UX 設計，建立品牌識別系統，作品榮獲 Awwwards 與多項國際設計獎。",
+  // },
+  // {
+  //   year: "2020 — 2022",
+  //   title: "全端工程師",
+  //   company: "CloudForge Inc.",
+  //   desc: "從零打造多個 Web 應用，涵蓋電商、數據平台與 AI 工具整合，月活用戶突破 50 萬。",
+  // },
+  // {
+  //   year: "2018 — 2020",
+  //   title: "自由接案設計師",
+  //   company: "Freelance",
+  //   desc: "與新創團隊與品牌合作，完成超過 40 個網站與品牌識別設計案。",
+  // },
 ];
 
 export const projects = [

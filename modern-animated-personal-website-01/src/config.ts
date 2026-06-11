@@ -4,8 +4,8 @@
 // ============================================================
 
 export const profile = {
-  name: "林 俊 傑",
-  englishName: "JAY LIN",
+  name: "邱 哥",
+  englishName: "CHIU JIA",
   title: "全端開發工程師 & 創意設計師",
   tagline: "在程式與設計的交界，探索無限可能",
   description:
